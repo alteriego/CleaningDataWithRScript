@@ -2,6 +2,7 @@
 
 ## Variables
 The first few lines of code after the DPLYR import turn the existing (downloaded/extracted) files into data.tables:
+
 For names:
 *features* <- read.table("features.txt")
 *activities* <- read.table("activity_labels.txt")
