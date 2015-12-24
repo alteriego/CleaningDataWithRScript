@@ -22,10 +22,10 @@ It then pulls all the data and creates the following intermediate files through 
 + **x_data** - x_test and x_train
 + **y_data** - y_test and y_train
 
-Creates the *mean_std* vector by using REGEX
+Creates the **mean_std** vector by using REGEX
 
 Then does a little subsetting and name replacement
 
-And creates *Table 1* through column bind (for step 4) 
+And creates **Table 1** through column bind (for step 4) 
 
-And *Table 2* (for step 5) through a small DPLYR chain
+And **Table 2** (for step 5) through a small DPLYR chain
