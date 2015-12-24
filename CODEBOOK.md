@@ -4,8 +4,8 @@
 The first few lines of code after the DPLYR import turn the existing (downloaded/extracted) files into data.tables:
 
 For names:
-**features** <- read.table("features.txt")
-*activities* <- read.table("activity_labels.txt")
++ **features** <- read.table("features.txt")
++ **activities** <- read.table("activity_labels.txt")
 
 For activity codes
 *subtest* <- read.table("./test/subject_test.txt")
