@@ -26,4 +26,6 @@ Creates the *mean_std* vector by using REGEX
 
 Then does a little subsetting and name replacement
 
-And creates *Table 1* (for step 4) and *Table 2* (for step 5)
+And creates *Table 1* through column bind (for step 4) 
+
+And *Table 2* (for step 5) through a small DPLYR chain
